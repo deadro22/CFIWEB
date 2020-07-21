@@ -41,10 +41,16 @@ $(function () {
   }
 
   //main page image rep generation
-  generateThumb("/images/1.jpg", "1");
+  /*generateThumb("/images/1.jpg", "1");
   generateThumb("/images/3.jpg", "3");
   generateThumb("/images/4.jpg", "4");
   generateThumb("/images/5.jpg", "5");
   generateThumb("/images/6.jpg", "6");
+  generateThumb("/images/12.jpg", "7");*/
+  generateThumb("/images/16.jpg", "1");
+  generateThumb("/images/17.jpg", "3");
+  generateThumb("/images/18.jpg", "4");
+  generateThumb("/images/19.jpg", "5");
+  generateThumb("/images/20.jpg", "6");
   generateThumb("/images/12.jpg", "7");
 });
